@@ -35,7 +35,9 @@ ___
 
 ### Or clone with ssh
 
+```bash
     git clone git@github.com:jasonleonhard/geminate.git
+```
 
 ### Or clone with https
 
@@ -67,17 +69,20 @@ ___
 
 #### lib/geminate.rb
 
-    class geminate
-      def self.how
-        puts "Geminate: the gem I made to teach you how to build your own gems!"
-        puts "Learn how at: https://github.com/jasonleonhard/geminate"
-      end
+```rb
+  class geminate
+    def self.how
+      puts "Geminate: the gem I made to teach you how to build your own gems!"
+      puts "Learn how at: https://github.com/jasonleonhard/geminate"
     end
+  end
+```
 
 The above file holds the class methods you are creating for others to use, when they use your gem later, feel free to modify the method name and what it does before we continue
 
 #### geminate.gemspec
 
+```rb
     Gem::Specification.new do |s|
       s.name        = 'geminate'
       s.authors     = ["jasonleonhard"]
@@ -89,6 +94,7 @@ The above file holds the class methods you are creating for others to use, when 
       s.license     = 'MIT'
       s.version     = '0.0.0'
     end
+```
 
 #### Change all of the following:
 
