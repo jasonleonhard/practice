@@ -35,9 +35,9 @@ ___
 
 ### Or clone with ssh
 
-```
-git clone git@github.com:jasonleonhard/geminate.git
-```
+
+    git clone git@github.com:jasonleonhard/geminate.git
+
 
 ### Or clone with https
 
