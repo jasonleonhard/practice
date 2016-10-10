@@ -286,14 +286,14 @@ ___
 
 <!-- [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid) -->
 
-[![N|Solid](images/follow.png)](https://github.com/users/follow?target=jasonleonhard)
+[![N|follow](images/follow.png)](https://github.com/users/follow?target=jasonleonhard)
 
-[![N|Solid](images/star.png)](https://github.com/jasonleonhard/practice/star)
+[![N|star](images/star.png)](https://github.com/jasonleonhard/practice/star)
 
-[![N|Solid](images/watch.png)](https://github.com/jasonleonhard/practice/subscription)
+[![N|watch](images/watch.png)](https://github.com/jasonleonhard/practice/subscription)
 
-[![N|Solid](images/watch.png)](https://github.com/jasonleonhard/practice/watch)
+[![N|watch](images/watch.png)](https://github.com/jasonleonhard/practice/watch)
 
-[![N|Solid](images/fork.png)](https://github.com/jasonleonhard/practice/fork)
+[![N|fork](images/fork.png)](https://github.com/jasonleonhard/practice/fork)
 
-[![N|Solid](images/clone.png)](https://github.com/jasonleonhard/practice/clone)
+[![N|clone](images/clone.png)](https://github.com/jasonleonhard/practice/clone)
