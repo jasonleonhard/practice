@@ -9,13 +9,13 @@
 <h1>The gem I made to teach you how to build your own gems</h1>
 
 <p>
-   <h1>Geminate:</h1>
+  <h1>Geminate:</h1>
 
-    <h3>verb (used with or without object), geminated, geminating.
-    1. to make or become doubled or paired.</h3>
+  <h2>verb</h2> <h3>(used with or without object), geminated, geminating.</h3>
+  <h3>1. to make or become doubled or paired.</h3>
 
-    <h3>adjective
-    2. Also, geminated. combined or arranged in pairs; twin; coupled.</h3>
+  <h2>adjective</h2>
+  <h3>2. Also, geminated. combined or arranged in pairs; twin; coupled.</h3>
 <p>
 ___
 
