@@ -155,7 +155,7 @@ enter your password
 
 ___
 
-<bold> Warning: To change any gem you own, after it has been uboldloaded to rubygems, you must version it</bold>
+<bold>Warning: To change any gem you own, after it has been uboldloaded to rubygems, you must version it</bold>
 
 
 #### geminate.gemspec
