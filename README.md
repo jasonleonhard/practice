@@ -381,19 +381,11 @@ ___
 
 <b>TESTING 321</b>
 
-[![N|follow](images/follow.png)](#top)
+[![N|follow](images/follow.png)](https://github.com/users/follow?target=jasonleonhard)
 
 [![N|star](images/star.png)](#top)
-
-[![N|watch](images/watch.png)](#top)
-
-[![N|watch](images/watch.png)](#top)
-
 [![N|fork](images/fork.png)](#top)
-
-[![N|clone](images/clone.png)](#top)
-
-
+[![N|watch](images/watch.png)](#top)
 
 <a href="#top">Back to top of page</a>
 
