@@ -8,7 +8,7 @@
 
 <h1>The gem I made to teach you how to build your own gems</h1>
 
-<p>
+<p align="center">
   <h1>Geminate:</h1>
 
   <h2>verb</h2> <h3>(used with or without object), geminated, geminating.</h3>
