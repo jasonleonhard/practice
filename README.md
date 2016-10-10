@@ -155,7 +155,7 @@ enter your password
 
 ___
 
-<h1>Warning: To change any gem you own, after it has been uh1loaded to rubygems, you must version it</h1>
+<h1>Warning:</h1><h3>To change any gem you own, after it has been uh1loaded to rubygems, you must version it</h3>
 
 
 #### geminate.gemspec
