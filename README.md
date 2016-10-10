@@ -17,6 +17,7 @@
 <!--   <img src="https://pixabay.com/static/uploads/photo/2016/03/29/22/08/love-1289532_1280.png" height="450x450"> -->
 
   <img src="https://pixabay.com/static/uploads/photo/2016/03/29/22/08/love-1289532_1280.png" height="350x350">
+
 </p>
 
 <blockquote>
@@ -26,6 +27,8 @@
 ___
 
 ### Fork this repository by clicking the 'fork' button
+
+<img src="https://help.github.com/assets/images/help/repository/fork_button.jpg">
 
 ### Or clone with ssh
 
@@ -238,3 +241,6 @@ ___
 
 ## If you've enjoyed building your own gem why not give us a star!?!?
 # Thank you.
+
+
+<img src="https://help.github.com/assets/images/help/repository/fork_button.jpg">
