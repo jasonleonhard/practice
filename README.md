@@ -20,12 +20,12 @@
 </p>
 
 <blockquote>
-  <h1>The gem I made to teach you how to build your own gems</h1>
+  <h1>The gem I made to teach you how to build your own gems.</h1>
 </blockquote>
 
 ___
 
-### Fork this repository by clicking 'fork' button
+### Fork this repository by clicking the 'fork' button
 
 ### Or clone with ssh
 
