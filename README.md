@@ -308,4 +308,7 @@ ___
 
 
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/jasonleonhard" data-style="mega" data-count-href="/jasonleonhard/followers" data-count-api="/users/jasonleonhard#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @jasonleonhard on GitHub">Follow @jasonleonhard</a>
+
 
