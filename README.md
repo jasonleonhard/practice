@@ -157,7 +157,7 @@ ___
 
 #### geminate.gemspec
 
-```ruby
+```rb
 Gem::Specification.new do |s|
   s.name        = 'geminate'
   s.authors     = ["jasonleonhard"]
