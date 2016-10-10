@@ -149,7 +149,7 @@ enter your password
 
 ___
 
-<p style="color:red"> Warning: To change any gem you own, after it has been uploaded to rubygems, you must version it</p>
+<p style="color:red;"> Warning: To change any gem you own, after it has been uploaded to rubygems, you must version it</p>
 
 #### geminate.gemspec
 
