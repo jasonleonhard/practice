@@ -36,7 +36,6 @@ ___
 
 ### Or clone with ssh
 
-
     git clone git@github.com:jasonleonhard/geminate.git
 
 
@@ -311,4 +310,40 @@ ___
 <!-- Place this tag where you want the button to render. -->
 <a href="https://github.com/jasonleonhard" data-style="mega" data-count-href="/jasonleonhard/followers" data-count-api="/users/jasonleonhard#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @jasonleonhard on GitHub"><img src="https://github.com/jasonleonhard/practice/fork" alt="Fork me on GitHub" data-canonical-src="https://github.com/jasonleonhard/practice/fork"></a>
 
+
+
+
+
+<!-- TESTING 123 -->
+
+
+<!-- given repo 'practice' -->
+<!-- https://buttons.github.io/ -->
+
+<!-- MUST HAVE FOR ALL -->
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+<!-- FOLLOW -->
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/jasonleonhard" data-style="mega" aria-label="Follow @jasonleonhard on GitHub">Follow @jasonleonhard</a>
+
+
+
+<!-- STAR -->
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/jasonleonhard/practice" data-icon="octicon-star" data-style="mega" aria-label="Star jasonleonhard/practice on GitHub">Star</a>
+
+
+
+<!-- WATCH -->
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/jasonleonhard/practice" data-icon="octicon-eye" data-style="mega" aria-label="Watch jasonleonhard/practice on GitHub">Watch</a>
+
+
+
+<!-- FORK -->
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/jasonleonhard/practice/fork" data-icon="octicon-repo-forked" data-style="mega" aria-label="Fork jasonleonhard/practice on GitHub">Fork</a>
 
