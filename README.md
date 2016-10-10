@@ -8,6 +8,7 @@
 
 <h1>The gem I made to teach you how to build your own gems</h1>
 
+<p>
     Geminate:
 
     verb (used with or without object), geminated, geminating.
@@ -15,7 +16,7 @@
 
     adjective
     2. Also, geminated. combined or arranged in pairs; twin; coupled.
-
+<p>
 ___
 
 ### Fork this repository by clicking 'fork' button
