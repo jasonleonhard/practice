@@ -9,14 +9,13 @@
 <h1>The gem I made to teach you how to build your own gems</h1>
 
 <p align="center">
-  <h1>Geminate:</h1>
-
   <blockquote>
-  <h2>verb</h2>
-  <h3>1. to make or become doubled or paired.</h3>
+    <h1>Geminate:</h1>
+    <h2>verb</h2>
+    <h3>1. to make or become doubled or paired.</h3>
 
-  <h2>adjective</h2>
-  <h3>2. combined or arranged in pairs; twin; coupled.</h3>
+    <h2>adjective</h2>
+    <h3>2. combined or arranged in pairs; twin; coupled.</h3>
   </blockquote>
 <p>
 ___
