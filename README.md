@@ -159,11 +159,12 @@ enter your password
 
 ___
 
-<button type="button" class="btn btn-warning">Warning</button>
+```diff
+- Warning:
+- To change any gem you own, after it has been uploaded to rubygems, you must version it
+```
 
-<button type="button" class="btn btn-danger">Danger</button>
-
-<h1>Warning:</h1><h3>To change any gem you own, after it has been uploaded to rubygems, you must version it</h3>
+<!-- <h1>Warning:</h1><h3>To change any gem you own, after it has been uploaded to rubygems, you must version it</h3> -->
 
 
 #### geminate.gemspec
@@ -281,9 +282,6 @@ ___
 
 <iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 
-
-
-<button>Button</button>
 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
