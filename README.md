@@ -389,3 +389,77 @@ ___
 
 <a href="#top">Back to top of page</a>
 
+
+
+
+
+
+
+<b>This is just the code you need to render the page that you can then follow, star, fork, watch, etc</b>
+
+```html
+<!-- given repo 'practice' -->
+<!-- https://buttons.github.io/ -->
+
+<!-- MUST HAVE FOR ALL -->
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+<!-- FOLLOW -->
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/jasonleonhard" data-style="mega" aria-label="Follow @jasonleonhard on GitHub">Follow @jasonleonhard</a>
+
+
+
+<!-- STAR -->
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/jasonleonhard/practice" data-icon="octicon-star" data-style="mega" aria-label="Star jasonleonhard/practice on GitHub">Star</a>
+
+
+
+<!-- WATCH -->
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/jasonleonhard/practice" data-icon="octicon-eye" data-style="mega" aria-label="Watch jasonleonhard/practice on GitHub">Watch</a>
+
+
+
+<!-- FORK -->
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/jasonleonhard/practice/fork" data-icon="octicon-repo-forked" data-style="mega" aria-label="Fork jasonleonhard/practice on GitHub">Fork</a>
+
+
+<!-- CLONE -->
+<p>
+  <h4>SSH CLONE</h4>
+  <p>Open your terminal and type</p>
+  <blockquote>git clone git@github.com:jasonleonhard/practice.git</blockquote>
+</p>
+
+<p>
+  <h4>HTTPS CLONE</h4>
+  <p>Open your terminal and type</p>
+  <blockquote>git clone https://github.com/jasonleonhard/practice.git</blockquote>
+</p>
+</br></br>
+
+
+
+<!-- HEROKU -->
+<!-- directions here
+                      https://devcenter.heroku.com/articles/heroku-button
+-->
+
+<a href="https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+</br></br>
+
+
+<!-- or use MD -->
+<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample) -->
+
+
+<!-- alternatively -->
+<!-- https://ghbtns.com/
+
+```
