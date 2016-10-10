@@ -157,6 +157,7 @@ ___
 
 #### geminate.gemspec
 
+```ruby
     Gem::Specification.new do |s|
       s.name        = 'geminate'
       s.authors     = ["jasonleonhard"]
@@ -168,6 +169,7 @@ ___
       s.license     = 'MIT'
       s.version     = '0.0.1' # notice this version increased from 0.0.0
     end
+```
 
 #### Every new version must increase, to create what you will be giving to rubygems:
 
@@ -262,8 +264,6 @@ ___
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-
-
 
 
 <iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
