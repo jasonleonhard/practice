@@ -158,17 +158,17 @@ ___
 #### geminate.gemspec
 
 ```ruby
-    Gem::Specification.new do |s|
-      s.name        = 'geminate'
-      s.authors     = ["jasonleonhard"]
-      s.email       = ['devbrights@gmail.com']
-      s.files       = ["lib/geminate.rb"]
-      s.summary     = "geminate!"
-      s.description = "Geminate the gem I made to teach you how to make your own gems!"
-      s.homepage    = 'http://rubygems.org/gems/geminate'
-      s.license     = 'MIT'
-      s.version     = '0.0.1' # notice this version increased from 0.0.0
-    end
+Gem::Specification.new do |s|
+  s.name        = 'geminate'
+  s.authors     = ["jasonleonhard"]
+  s.email       = ['devbrights@gmail.com']
+  s.files       = ["lib/geminate.rb"]
+  s.summary     = "geminate!"
+  s.description = "Geminate the gem I made to teach you how to make your own gems!"
+  s.homepage    = 'http://rubygems.org/gems/geminate'
+  s.license     = 'MIT'
+  s.version     = '0.0.1' # notice this version increased from 0.0.0
+end
 ```
 
 #### Every new version must increase, to create what you will be giving to rubygems:
