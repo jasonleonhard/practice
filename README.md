@@ -284,7 +284,7 @@ ___
 
 
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+<!-- [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid) -->
 
 [![N|Solid](follow.png)](https://github.com/users/follow?target=jasonleonhard)
 
