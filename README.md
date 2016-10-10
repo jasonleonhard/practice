@@ -12,10 +12,10 @@
   <h1>Geminate:</h1>
 
   <h2>verb</h2>
-  <q>1. to make or become doubled or paired.</q>
+  <blockquote>1. to make or become doubled or paired.</blockquote>
 
   <h2>adjective</h2>
-  <q>2. combined or arranged in pairs; twin; coupled.</q>
+  <blockquote>2. combined or arranged in pairs; twin; coupled.</blockquote>
 <p>
 ___
 
