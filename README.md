@@ -244,3 +244,7 @@ ___
 
 
 <img src="https://camo.githubusercontent.com/4c724400e0e4144f44f3830ce8e82f8dd948b3f7/687474703a2f2f6769746875622e73332e616d617a6f6e6177732e636f6d2f626c6f672f77617463682d737461722e706e67">
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/jasonleonhard" data-style="mega" data-count-href="/jasonleonhard/followers" data-count-api="/users/jasonleonhard#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @jasonleonhard on GitHub">Follow @jasonleonhard</a>
+
