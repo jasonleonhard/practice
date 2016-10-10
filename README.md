@@ -19,7 +19,9 @@
   <img src="https://pixabay.com/static/uploads/photo/2016/03/29/22/08/love-1289532_1280.png" height="350x350">
 </p>
 
-<h1>The gem I made to teach you how to build your own gems</h1>
+<blockquote>
+  <h1>The gem I made to teach you how to build your own gems</h1>
+</blockquote>
 
 ___
 
