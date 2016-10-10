@@ -315,8 +315,6 @@ ___
 
 
 <!-- TESTING 123 -->
-
-
 <!-- given repo 'practice' -->
 <!-- https://buttons.github.io/ -->
 
@@ -347,3 +345,32 @@ ___
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/jasonleonhard/practice/fork" data-icon="octicon-repo-forked" data-style="mega" aria-label="Fork jasonleonhard/practice on GitHub">Fork</a>
 
+
+<!-- CLONE -->
+<p>
+  <h4>SSH CLONE</h4>
+  <p>Open your terminal and type</p>
+  <blockquote>git clone git@github.com:jasonleonhard/practice.git</blockquote>
+</p>
+
+<p>
+  <h4>HTTPS CLONE</h4>
+  <p>Open your terminal and type</p>
+  <blockquote>git clone https://github.com/jasonleonhard/practice.git</blockquote>
+</p>
+</br></br>
+
+
+
+<!-- HEROKU -->
+<!-- directions here
+                      https://devcenter.heroku.com/articles/heroku-button
+-->
+
+<a href="https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+</br></br>
+
+
+<!-- or use MD -->
+<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample) -->
