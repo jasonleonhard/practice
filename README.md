@@ -2,19 +2,6 @@
   <img src="https://pixabay.com/static/uploads/photo/2016/03/29/22/08/love-1289532_1280.png" height="450x450">
 </p>
 
-<p align="center">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200"> <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200"> <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200"> <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200"> <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-</p>
-
-
 # "Geminate: the gem I made to teach you how to build your own gems!"
 
     Geminate:
