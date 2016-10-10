@@ -1,4 +1,6 @@
-<h1> Geminate </h1>
+<p align="center">
+  <h1>Geminate!</h1>
+</p>
 
 <p align="center">
 <!--   <img src="https://pixabay.com/static/uploads/photo/2016/03/29/22/08/love-1289532_1280.png" height="450x450"> -->
