@@ -251,3 +251,10 @@ ___
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/jasonleonhard" data-style="mega" data-count-href="/jasonleonhard/followers" data-count-api="/users/jasonleonhard#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @jasonleonhard on GitHub">Follow @jasonleonhard</a>
 
+
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/jasonleonhard/geminate" data-style="mega" data-count-href="/jasonleonhard/geminate/stargazers" data-count-api="/repos/jasonleonhard/geminate#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star jasonleonhard/geminate on GitHub">Star</a>
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
