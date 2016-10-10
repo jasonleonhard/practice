@@ -155,7 +155,7 @@ enter your password
 
 ___
 
-<p color="red"> Warning: To change any gem you own, after it has been uploaded to rubygems, you must version it</p>
+<font color="red"> Warning: To change any gem you own, after it has been ufontloaded to rubygems, you must version it</font>
 
 
 #### geminate.gemspec
