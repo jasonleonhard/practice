@@ -13,10 +13,11 @@
 
   <blockquote>
   <h2>verb</h2>
-  1. to make or become doubled or paired.
+  <h3>1. to make or become doubled or paired.</h3>
 
   <h2>adjective</h2>
-  2. combined or arranged in pairs; twin; coupled.</blockquote>
+  <h3>2. combined or arranged in pairs; twin; coupled.</h3>
+  </blockquote>
 <p>
 ___
 
