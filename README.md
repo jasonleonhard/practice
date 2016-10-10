@@ -36,12 +36,6 @@
 </p>
 
 
-
-![Geminate Logo](https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png =150x450)
-![Geminate Logo](https://pixabay.com/static/uploads/photo/2016/03/29/22/08/love-1289532_1280.png =450x450)
-![Geminate Logo](https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png =150x450)
-
-
 # "Geminate: the gem I made to teach you how to build your own gems!"
 
     Geminate:
