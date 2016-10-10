@@ -1,17 +1,4 @@
 <p align="center">
-
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200"> <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200"> <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200"> <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200"> <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-</p>
-
-<p align="center">
   <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
   <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
 
