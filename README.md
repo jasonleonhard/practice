@@ -133,7 +133,7 @@ You will want to run the curl command they suggest to create a ~/.gem/credential
 
 ___
 
-## PUBLISH WITH:
+## Publish with
 
     gem push geminate-0.0.0.gem
 
@@ -149,7 +149,7 @@ enter your password
 
 ___
 
-### Warning: To change any gem you own, after it has been uploaded to rubygems, you must version it
+<p style="color:red"> Warning: To change any gem you own, after it has been uploaded to rubygems, you must version it</p>
 
 #### geminate.gemspec
 
