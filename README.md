@@ -151,6 +151,9 @@ ___
 
 <p style="color:red;"> Warning: To change any gem you own, after it has been uploaded to rubygems, you must version it</p>
 
+<h2 style="color:red;">I am red</h2>
+
+
 #### geminate.gemspec
 
     Gem::Specification.new do |s|
