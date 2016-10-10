@@ -1,6 +1,3 @@
-<style>
-  .red{ color:red; }
-</style>
 <!-- <h1 align="center">Geminate!</h1> -->
 
 <p align="center">
@@ -158,7 +155,7 @@ enter your password
 
 ___
 
-<p class="red"> Warning: To change any gem you own, after it has been uploaded to rubygems, you must version it</p>
+<p color="red"> Warning: To change any gem you own, after it has been uploaded to rubygems, you must version it</p>
 
 
 #### geminate.gemspec
