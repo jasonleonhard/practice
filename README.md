@@ -11,11 +11,11 @@
 <p align="center">
   <h1>Geminate:</h1>
 
-  <h2>verb</h2> <q>(used with or without object), geminated, geminating.</q>
+  <h2>verb</h2>
   <q>1. to make or become doubled or paired.</q>
 
   <h2>adjective</h2>
-  <q>2. Also, geminated. combined or arranged in pairs; twin; coupled.</q>
+  <q>2. combined or arranged in pairs; twin; coupled.</q>
 <p>
 ___
 
