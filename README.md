@@ -252,7 +252,7 @@ ___
 
 ___
 
-## If you've enjoyed building your own gem why not give us a star!?!?
+# If you've enjoyed building your own gem why not give us a star!?!?
 
 <img src="https://camo.githubusercontent.com/4c724400e0e4144f44f3830ce8e82f8dd948b3f7/687474703a2f2f6769746875622e73332e616d617a6f6e6177732e636f6d2f626c6f672f77617463682d737461722e706e67">
 
