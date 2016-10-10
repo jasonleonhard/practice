@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-
   <img src="https://pixabay.com/static/uploads/photo/2016/03/29/22/08/love-1289532_1280.png" height="450x450">
-
-
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
-  <img src="https://pixabay.com/static/uploads/photo/2012/04/16/11/25/gemstone-35572_960_720.png" height="100x200">
->
 </p>
 
 <p align="center">
