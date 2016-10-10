@@ -286,14 +286,14 @@ ___
 
 <!-- [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid) -->
 
-[![N|Solid](follow.png)](https://github.com/users/follow?target=jasonleonhard)
+[![N|Solid](images/follow.png)](https://github.com/users/follow?target=jasonleonhard)
 
-[![N|Solid](star.png)](https://github.com/jasonleonhard/practice/star)
+[![N|Solid](images/star.png)](https://github.com/jasonleonhard/practice/star)
 
-[![N|Solid](watch.png)](https://github.com/jasonleonhard/practice/subscription)
+[![N|Solid](images/watch.png)](https://github.com/jasonleonhard/practice/subscription)
 
-[![N|Solid](watch.png)](https://github.com/jasonleonhard/practice/watch)
+[![N|Solid](images/watch.png)](https://github.com/jasonleonhard/practice/watch)
 
-[![N|Solid](fork.png)](https://github.com/jasonleonhard/practice/fork)
+[![N|Solid](images/fork.png)](https://github.com/jasonleonhard/practice/fork)
 
-[![N|Solid](clone.png)](https://github.com/jasonleonhard/practice/clone)
+[![N|Solid](images/clone.png)](https://github.com/jasonleonhard/practice/clone)
