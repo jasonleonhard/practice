@@ -158,7 +158,9 @@ enter your password
 # Congratulations! You have just created and publicly pushed your first version of a ruby gem!
 
 ___
+
 <button type="button" class="btn btn-warning">Warning</button>
+
 <button type="button" class="btn btn-danger">Danger</button>
 
 <h1>Warning:</h1><h3>To change any gem you own, after it has been uploaded to rubygems, you must version it</h3>
