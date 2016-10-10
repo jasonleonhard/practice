@@ -394,8 +394,7 @@ ___
 
 
 
-
-<b>This is just the code you need to render the page that you can then follow, star, fork, watch, etc</b>
+<h1>Below is code you can render to: follow, star, fork, watch, etc</h1>
 
 ```html
 <!-- given repo 'practice' -->
@@ -407,27 +406,16 @@ ___
 
 
 <!-- FOLLOW -->
-<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/jasonleonhard" data-style="mega" aria-label="Follow @jasonleonhard on GitHub">Follow @jasonleonhard</a>
 
-
-
 <!-- STAR -->
-<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/jasonleonhard/practice" data-icon="octicon-star" data-style="mega" aria-label="Star jasonleonhard/practice on GitHub">Star</a>
 
-
-
 <!-- WATCH -->
-<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/jasonleonhard/practice" data-icon="octicon-eye" data-style="mega" aria-label="Watch jasonleonhard/practice on GitHub">Watch</a>
 
-
-
 <!-- FORK -->
-<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/jasonleonhard/practice/fork" data-icon="octicon-repo-forked" data-style="mega" aria-label="Fork jasonleonhard/practice on GitHub">Fork</a>
-
 
 <!-- CLONE -->
 <p>
@@ -443,8 +431,6 @@ ___
 </p>
 </br></br>
 
-
-
 <!-- HEROKU -->
 <!-- directions here
                       https://devcenter.heroku.com/articles/heroku-button
@@ -454,12 +440,10 @@ ___
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 </br></br>
 
-
 <!-- or use MD -->
 <!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample) -->
 
 
 <!-- alternatively -->
-<!-- https://ghbtns.com/
-
+<!-- https://ghbtns.com/ -->
 ```
