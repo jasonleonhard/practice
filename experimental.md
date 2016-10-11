@@ -1,5 +1,3 @@
-<!-- given repo 'practice' -->
-
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
@@ -36,13 +34,12 @@ ___
 
 <img src="https://help.github.com/assets/images/help/repository/fork_button.jpg">
 
-### Or clone with
-  ## SSH
+### Or clone with ssh
 
     git clone git@github.com:jasonleonhard/geminate.git
 
 
-## HTTPS
+### Or clone with https
 
     git clone https://github.com/jasonleonhard/geminate.git
 
@@ -294,14 +291,31 @@ ___
 
 [![N|watch](images/watch.png)](https://github.com/jasonleonhard/practice/subscription)
 
+[![N|watch](images/watch.png)](https://github.com/jasonleonhard/practice/watch)
+
 [![N|fork](images/fork.png)](https://github.com/jasonleonhard/practice/fork)
+
+[![N|clone](images/clone.png)](https://github.com/jasonleonhard/practice/clone)
+
+
 
 <a href="https://github.com/jasonleonhard"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/567c3a48d796e2fc06ea80409cc9dd82bf714434/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png"></a>
 
 <a href="https://github.com/jasonleonhard"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/567c3a48d796e2fc06ea80409cc9dd82bf714434/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://github.com/jasonleonhard/practice/fork"></a>
 
+<a href="https://github.com/jasonleonhard"><img style="height: 100; width: 1000; position: absolute; top: 0; left: 0; border: 0;" src="https://github.com/jasonleonhard/practice/fork" alt="Fork me on GitHub" data-canonical-src="https://github.com/jasonleonhard/practice/fork"></a>
 
 
+
+<!-- Place this tag where you want the button to render. -->
+<a href="https://github.com/jasonleonhard" data-style="mega" data-count-href="/jasonleonhard/followers" data-count-api="/users/jasonleonhard#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @jasonleonhard on GitHub"><img src="https://github.com/jasonleonhard/practice/fork" alt="Fork me on GitHub" data-canonical-src="https://github.com/jasonleonhard/practice/fork"></a>
+
+
+
+
+
+<b>TESTING 123</b>
+<!-- given repo 'practice' -->
 <!-- https://buttons.github.io/ -->
 
 <!-- MUST HAVE FOR ALL -->
@@ -349,7 +363,9 @@ ___
 
 
 <!-- HEROKU -->
-<!-- directions here https://devcenter.heroku.com/articles/heroku-button -->
+<!-- directions here
+                      https://devcenter.heroku.com/articles/heroku-button
+-->
 
 <a href="https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
@@ -365,8 +381,69 @@ ___
 
 <b>TESTING 321</b>
 
+[![N|follow](images/follow.png)](https://github.com/users/follow?target=jasonleonhard)
+
 [![N|star](images/star.png)](#top)
 [![N|fork](images/fork.png)](#top)
 [![N|watch](images/watch.png)](#top)
 
-[![N|follow](images/follow.png)](https://github.com/jasonleonhard)
+<a href="#top">Back to top of page</a>
+
+
+
+
+
+
+<h1>Below is code you can render to: follow, star, fork, watch, etc</h1>
+
+```html
+<!-- given repo 'practice' -->
+<!-- https://buttons.github.io/ -->
+
+<!-- MUST HAVE FOR ALL -->
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+<!-- FOLLOW -->
+<a class="github-button" href="https://github.com/jasonleonhard" data-style="mega" aria-label="Follow @jasonleonhard on GitHub">Follow @jasonleonhard</a>
+
+<!-- STAR -->
+<a class="github-button" href="https://github.com/jasonleonhard/practice" data-icon="octicon-star" data-style="mega" aria-label="Star jasonleonhard/practice on GitHub">Star</a>
+
+<!-- WATCH -->
+<a class="github-button" href="https://github.com/jasonleonhard/practice" data-icon="octicon-eye" data-style="mega" aria-label="Watch jasonleonhard/practice on GitHub">Watch</a>
+
+<!-- FORK -->
+<a class="github-button" href="https://github.com/jasonleonhard/practice/fork" data-icon="octicon-repo-forked" data-style="mega" aria-label="Fork jasonleonhard/practice on GitHub">Fork</a>
+
+<!-- CLONE -->
+<p>
+  <h4>SSH CLONE</h4>
+  <p>Open your terminal and type</p>
+  <blockquote>git clone git@github.com:jasonleonhard/practice.git</blockquote>
+</p>
+
+<p>
+  <h4>HTTPS CLONE</h4>
+  <p>Open your terminal and type</p>
+  <blockquote>git clone https://github.com/jasonleonhard/practice.git</blockquote>
+</p>
+</br></br>
+
+<!-- HEROKU -->
+<!-- directions here
+                      https://devcenter.heroku.com/articles/heroku-button
+-->
+
+<a href="https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+</br></br>
+
+<!-- or use MD -->
+<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample) -->
+
+
+<!-- alternatively -->
+<!-- https://ghbtns.com/ -->
+```
