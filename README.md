@@ -347,12 +347,6 @@ ___
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 </br></br>
 
-<b>TESTING 321</b>
-
-<a href="https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
-</br></br>
-
 <!-- or use MD -->
 <!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample) -->
 
@@ -402,17 +396,6 @@ ___
 </p>
 </br></br>
 
-<!-- HEROKU -->
-<!-- directions here
-                      https://devcenter.heroku.com/articles/heroku-button
--->
-
-<a href="https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
-</br></br>
-
-<!-- or use MD -->
-<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample) -->
 
 
 <!-- alternatively -->
