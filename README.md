@@ -340,7 +340,6 @@ ___
 </br></br>
 
 
-
 <!-- HEROKU -->
 <!-- directions here https://devcenter.heroku.com/articles/heroku-button -->
 
@@ -348,34 +347,14 @@ ___
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 </br></br>
 
-
-<!-- or use MD -->
-<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample) -->
-
-
-
-
-
 <b>TESTING 321</b>
 
-[![N|star](images/star.png)](#top)
-[![N|fork](images/fork.png)](#top)
-[![N|watch](images/watch.png)](#top)
-
-[![N|follow](images/follow.png)](https://github.com/jasonleonhard)
-/deploy?template=https://github.com/heroku/node-js-sample">
+<a href="https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 </br></br>
 
-
 <!-- or use MD -->
 <!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample) -->
-
-
-
-
-
-<b>TESTING 321</b>
 
 [![N|follow](images/follow.png)](https://github.com/users/follow?target=jasonleonhard)
 
@@ -384,10 +363,6 @@ ___
 [![N|watch](images/watch.png)](#top)
 
 <a href="#top">Back to top of page</a>
-
-
-
-
 
 
 <h1>Below is code you can render to: follow, star, fork, watch, etc</h1>
