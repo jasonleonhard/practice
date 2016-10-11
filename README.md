@@ -1,4 +1,4 @@
-### This repo was purely to practice and demostrate some fancy markdown and html for a readme.
+### Purely to practice & demostrate some fancy markdown & html for a readme.
 
 <!-- given repo 'practice' -->
 
