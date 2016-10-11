@@ -353,9 +353,9 @@ ___
 
 [![N|follow](images/follow.png)](https://github.com/users/follow?target=jasonleonhard)
 
-[![N|star](images/star.png)](#top)
-[![N|fork](images/fork.png)](#top)
-[![N|watch](images/watch.png)](#top)
+[![N|star](images/star.png =1000x200)](#top)
+[![N|fork](images/fork.png =200x1000)](#top)
+[![N|watch](images/watch.png =1000x1000)](#top)
 
 <a href="#top">Back to top of page</a>
 
