@@ -1,4 +1,6 @@
-### Purely to practice & demostrate some fancy markdown & html for a readme.
+```diff
+- Warning: Purely to practice & demostrate some fancy markdown & html for a readme.
+```
 
 <!-- given repo 'practice' -->
 
